@@ -76,6 +76,6 @@
   
   | Platform | Solved |
   |----------|--------|
-  | LeetCode | ![LeetCode Stats](https://leetcard.jacoblin.cool/marjanghazi?theme=dark) |
-  | CodeForces | ![CodeForces](https://badges.joonhyung.xyz/codeforces/marjanghazi.svg) |
+  | LeetCode | ![LeetCode Stats](https://leetcard.jacoblin.cool/syedmarjanghazi?theme=dark) |
+  | CodeForces | ![CodeForces](https://badges.joonhyung.xyz/codeforces/syedmarjanghazi.svg) |
 </div>
