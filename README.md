@@ -78,12 +78,19 @@ I love:
 
 <div align="center">
 
-![Snake Animation](https://github.com/marjanghazi/marjanghazi/blob/output/github-contribution-grid-snake.svg)
+### 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/marjanghazi/marjanghazi/output/github-contribution-grid-snake.svg)
 
-| <img src="https://github-readme-stats.vercel.app/api?username=marjanghazi&show_icons=true&theme=tokyonight&hide_border=true" width="49%"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=marjanghazi&theme=tokyonight&hide_border=true" width="49%"> |
+---
+
+### 📊 GitHub Stats  
+| <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marjanghazi&show_icons=true&theme=tokyonight&hide_border=true" width="49%"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=marjanghazi&theme=tokyonight&hide_border=true" width="49%"> |
 |---|---|
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marjanghazi&layout=compact&theme=tokyonight&hide_border=true" />
+---
+
+### 🔥 Most Used Languages
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marjanghazi&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
