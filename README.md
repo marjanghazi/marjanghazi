@@ -4,78 +4,121 @@
   </a>
 </h1>
 
+
+
 <p align="center">
   <a href="https://www.linkedin.com/in/syedmarjanghazi">
-    <img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/syedmarjanghazi" />
+    <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:syedmarjanghazi@gmail.com">
-    <img src="https://img.shields.io/badge/-SAY_HI!-critical?style=for-the-badge&logo=Gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
+---
+
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="coding gif">
 </div>
 
 ---
 
-### 🧰 Toolbox
+## ⚡ About Me
+
+I’m **Syed Marjan Ghazi**, a passionate developer blending **full-stack engineering**, **cybersecurity**, and **post-quantum cryptography** to build secure, scalable systems.
+
+I worked as a **Software Developer (LAMP) at Bixisoft**, actively contributing to **US-based production-grade projects**, building APIs, handling complex data flows, enhancing UI/UX, and Fintech backend modules.
+
+I currently work as **Software Developer (LAMP) at SOS(Security Organization System)**, actively contributing to the scalable dashboards, data CRUD operations required by the company.
+
+I’m also building my **FYP: QuantX — a quantum-safe secure communication system using Kyber, Dilithium & AES-GCM**, inspired by modern PQC standards.
+
+I love:
+- Designing secure software architectures  
+- Writing clean, scalable code  
+- Building real products  
+- Exploring quantum-safe cryptography  
+- Contributing to open-source  
+
+---
+
+## 🧰 Toolbox
 
 <div align="center">
-  
-| **Frontend** | **Backend** | **Database** | **DevOps** |
-|--------------|-------------|--------------|------------|
-| <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> | <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> | <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"> | <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"> |
+
+| **Frontend** | **Backend** | **Databases** | **Tools / DevOps** |
+|--------------|-------------|---------------|---------------------|
+| ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) | ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
 </div>
 
 ---
 
-### ⚡ GitHub Analytics
+## 🚀 Featured Projects
+
+### 🔐 **QuantX — Quantum-Safe Secure Communication System**
+> A fully encrypted communication platform using **Kyber, Dilithium, AES-GCM**, with post-quantum ready architecture.
+
+### 🧠 **HRM System (Admin Panel)**
+- Attendance tracker  
+- Live shift timers  
+- CSV automation  
+- SweetAlert integration  
+- Multi-user role management  
+
+### 🌦️ **Fintech API Integrations**
+- Salesforce API
+- Five9 APIs
+- ForthCRM 
+
+
+---
+
+## 📈 GitHub Analytics
 
 <div align="center">
-  
-[![GitHub Snake](https://github.com/marjanghazi/marjanghazi/blob/output/github-contribution-grid-snake.svg)](https://github.com/marjanghazi)
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=marjanghazi&show_icons=true&theme=radical&hide_border=true"> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marjanghazi&theme=radical&hide_border=true"> |
-| ------------- | ------------- |
+![Snake Animation](https://github.com/marjanghazi/marjanghazi/blob/output/github-contribution-grid-snake.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marjanghazi&layout=compact&theme=radical&hide_border=true)
+| <img src="https://github-readme-stats.vercel.app/api?username=marjanghazi&show_icons=true&theme=tokyonight&hide_border=true" width="49%"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=marjanghazi&theme=tokyonight&hide_border=true" width="49%"> |
+|---|---|
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marjanghazi&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-### 🏆 Achievements
+## 🏆 Achievements
 
 <div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=marjanghazi&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=marjanghazi&theme=matrix&row=2&column=4)
 
 </div>
 
 ---
 
-### 📝 Latest Blog Posts
-
-<!-- Replace with your actual blog posts -->
-- 🔥 [10 Tips for Efficient PHP Development](https://example.com)
-- 🚀 [Mastering Git: Beyond the Basics](https://example.com)
-- 🎯 [Building Scalable Java Applications](https://example.com)
-
----
-
-### 🎶 Now Playing
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
-
----
+## 🎯 Competitive Programming Stats
 
 <div align="center">
-  <h3>💡 Problem Solving Stats</h3>
-  
-  | Platform | Solved |
-  |----------|--------|
-  | LeetCode | ![LeetCode Stats](https://leetcard.jacoblin.cool/syedmarjanghazi?theme=dark) |
-  | CodeForces | ![CodeForces](https://badges.joonhyung.xyz/codeforces/syedmarjanghazi.svg) |
+
+| Platform | Stats |
+|---------|--------|
+| LeetCode | ![](https://leetcard.jacoblin.cool/syedmarjanghazi?theme=dark) |
+| CodeForces | ![](https://badges.joonhyung.xyz/codeforces/syedmarjanghazi.svg) |
+
 </div>
+
+---
+
+## 📝 Articles
+*Publishing Soon*
+
+---
+
+<h3 align="center">⚡ “Building today what the world will trust tomorrow.”</h3>
+
+<p align="center">
+  <b>⭐ If you like my work, consider giving a star — it motivates me a lot!</b>
+</p>
