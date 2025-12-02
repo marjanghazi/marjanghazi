@@ -79,18 +79,23 @@ I love:
 <div align="center">
 
 ### 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/marjanghazi/marjanghazi/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/marjanghazi/marjanghazi/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
 ### 📊 GitHub Stats  
-| <img src="https://github-readme-stats.vercel.app/api?username=marjanghazi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"> | <img src="https://streak-stats.demolab.com?user=marjanghazi&theme=tokyonight&hide_border=true" width="49%"> |
-|---|---|
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marjanghazi&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marjanghazi&theme=github_dark&utcOffset=5" />
+</p>
 
 ---
 
 ### 🔥 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marjanghazi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marjanghazi&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marjanghazi&theme=github_dark" />
+</p>
 
 </div>
 
@@ -100,7 +105,7 @@ I love:
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=marjanghazi&theme=matrix&row=2&column=4&no-bg=true&no-frame=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=marjanghazi&theme=gruvbox&row=2&column=4&margin-w=15&margin-h=15)
 
 </div>
 ---
