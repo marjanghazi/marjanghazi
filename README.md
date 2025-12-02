@@ -79,7 +79,7 @@ I love:
 <div align="center">
 
 ### 🐍 Contribution Snake
-![Snake animation](https://github-readme-snake.vercel.app/api/v1?user=marjanghazi&color=FE5500&background=0d1117&hide_border=true)
+![Snake animation](https://raw.githubusercontent.com/marjanghazi/marjanghazi/output/snake-dark.svg)
 
 ---
 
