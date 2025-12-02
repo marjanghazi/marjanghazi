@@ -84,13 +84,13 @@ I love:
 ---
 
 ### 📊 GitHub Stats  
-| <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marjanghazi&show_icons=true&theme=tokyonight&hide_border=true" width="49%"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=marjanghazi&theme=tokyonight&hide_border=true" width="49%"> |
+| <img src="https://github-readme-stats.vercel.app/api?username=marjanghazi&show_icons=true&theme=tokyonight&hide_border=true" width="49%"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=marjanghazi&theme=tokyonight&hide_border=true" width="49%"> |
 |---|---|
 
 ---
 
 ### 🔥 Most Used Languages
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marjanghazi&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marjanghazi&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -103,7 +103,6 @@ I love:
 ![Trophies](https://github-profile-trophy.vercel.app/?username=marjanghazi&theme=matrix&row=2&column=4)
 
 </div>
-
 ---
 
 ## 🎯 Competitive Programming Stats
