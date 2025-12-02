@@ -78,8 +78,10 @@ I love:
 
 <div align="center">
 
-### 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/marjanghazi/marjanghazi/output/snake-dark.svg)
+### 📊 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marjanghazi&theme=github&area=true&hide_border=true&custom_title=My%20Contribution%20Graph&bg_color=0d1117&color=FE5500&line=FE5500&point=ffffff" />
+</p>
 
 ---
 
