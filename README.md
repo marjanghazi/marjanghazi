@@ -84,13 +84,13 @@ I love:
 ---
 
 ### 📊 GitHub Stats  
-| <img src="https://github-readme-stats.vercel.app/api?username=marjanghazi&show_icons=true&theme=tokyonight&hide_border=true" width="49%"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=marjanghazi&theme=tokyonight&hide_border=true" width="49%"> |
+| <img src="https://github-readme-stats.vercel.app/api?username=marjanghazi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"> | <img src="https://streak-stats.demolab.com?user=marjanghazi&theme=tokyonight&hide_border=true" width="49%"> |
 |---|---|
 
 ---
 
 ### 🔥 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marjanghazi&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marjanghazi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -100,7 +100,7 @@ I love:
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=marjanghazi&theme=matrix&row=2&column=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=marjanghazi&theme=matrix&row=2&column=4&no-bg=true&no-frame=true)
 
 </div>
 ---
